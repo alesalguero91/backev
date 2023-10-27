@@ -1,6 +1,8 @@
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Dto\LoginUsuario.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Entity\Rol.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Controller\Mensaje.java
+C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Controller\PersonaController.java
+C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Entity\Persona.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Entity\UsuarioPrincipal.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\MainSecurity.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Service\UsuarioService.java
@@ -9,6 +11,7 @@ C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\bac
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Repository\iUsuarioRepository.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Controller\AuthController.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Repository\iRolRepository.java
+C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Service\PersonaService.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Entity\Usuario.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Dto\JwtDto.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Enums\RolNombre.java
@@ -16,4 +19,6 @@ C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\bac
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Service\RolService.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Service\UserDetailsImpl.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Jwt\JwtProvider.java
+C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Interface\IPersonaService.java
 C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Security\Jwt\JwtTokenFilter.java
+C:\Users\salguero\Desktop\proyectos\eventos\backev\src\main\java\com\example\backev\Repository\PersonaRepository.java
